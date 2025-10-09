@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Jair Dias
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;JavaScript+%26+TypeScript+Enthusiast;Rio+de+Janeiro,+RJ;Sempre+aprendendo+coisas+novas!&center=true&size=27&color=58a6ff&background=0d1117">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=TypeScript+Enthusiast;Rio+de+Janeiro,+RJ;Sempre+aprendendo+coisas+novas!&center=true&size=27&color=58a6ff&background=0d1117">
 </div>
 
 ## 🚀 Sobre mim
