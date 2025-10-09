@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Jair Dias
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=TypeScript+Enthusiast;Rio+de+Janeiro,+RJ;Sempre+aprendendo+coisas+novas!&center=true&size=27&color=58a6ff&background=0d1117">
+ Full Stack Developer | HTML | CSS | JavaScript | React | Node.js
 </div>
 
 ## 🚀 Sobre mim
